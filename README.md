@@ -1,4 +1,4 @@
-# GoogleContacts_clone_using_C
+# GoogleContacts_clone_using_C (Team Project)
 This is console based app using C language where a user can perform operations like:
   - Login
   - Signup
